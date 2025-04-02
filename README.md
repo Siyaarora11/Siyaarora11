@@ -5,7 +5,7 @@
 <br>
 🌐 Socials:
 <p align="left" >
-<a href="linkedin.com/in/siya-arora-411891234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siya-arora-411891234" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/siya-arora-411891234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siya-arora-411891234" height="30" width="40" /></a>
 <t>
 <t>
 <a href="https://www.instagram.com/siya_arora03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siya_arora03" height="30" width="40" /></a>
