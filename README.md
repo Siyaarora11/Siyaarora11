@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-### 🚀 Aspiring Software Developer | AI & ML Enthusiast | Graphics Designer
+### 🚀 Aspiring Software Developer | AI & ML Enthusiast | 
 I am a Computer Science and Engineering graduate (Batch 2025) from I.K. Gujral Punjab Technical University, Amritsar Campus, with a strong foundation in full-stack development, software engineering, and data structures & algorithms.
 ### 🔹 Technical Expertise:
 <b>✔ Programming & Web Development:</b> AI & ML, Python, Django, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap<br>
