@@ -1,15 +1,19 @@
+# 👋 Hey, I'm Siya
 
-# 💫 About Me:
-<p align="left"><b>Ask me about :</b>   AI & ML || Python || Django || DSA || HTML || CSS || javascript || Tailwind || Bootstrap
-<br>
-<br>
-🌐 Socials:
-<p align="left" >
+## 💫 About Me:
+
+### 🚀 Aspiring Software Developer | AI & ML Enthusiast | Graphics Designer
+I am a Computer Science and Engineering graduate (Batch 2025) from I.K. Gujral Punjab Technical University, Amritsar Campus, with a strong foundation in full-stack development, software engineering, and data structures & algorithms.
+### 🔹 Technical Expertise:
+<b>✔ Programming & Web Development:</b> AI & ML, Python, Django, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap<br>
+<b>✔ Problem-Solving:</b> Data Structures & Algorithms
+###  🎯 Current Focus:
+I am actively enhancing my expertise in Artificial Intelligence and Machine Learning, aiming to integrate intelligent solutions into real-world applications.
+### 🌐 Socials:
 <a href="https://www.linkedin.com/in/siya-arora-411891234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siya-arora-411891234" height="30" width="40" /></a>
 <t>
 <t>
 <a href="https://www.instagram.com/siya_arora03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siya_arora03" height="30" width="40" /></a>
-</p>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -25,5 +29,9 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+
+
+
 
  
